@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Trello-To-Do-Manager/static/css/main.89d77409.css",
+    "main.js": "/Trello-To-Do-Manager/static/js/main.ca7b1ea0.js",
+    "static/js/453.68c614f7.chunk.js": "/Trello-To-Do-Manager/static/js/453.68c614f7.chunk.js",
+    "index.html": "/Trello-To-Do-Manager/index.html",
+    "main.89d77409.css.map": "/Trello-To-Do-Manager/static/css/main.89d77409.css.map",
+    "main.ca7b1ea0.js.map": "/Trello-To-Do-Manager/static/js/main.ca7b1ea0.js.map",
+    "453.68c614f7.chunk.js.map": "/Trello-To-Do-Manager/static/js/453.68c614f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89d77409.css",
+    "static/js/main.ca7b1ea0.js"
+  ]
+}
