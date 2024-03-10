@@ -2,6 +2,7 @@
 
 <p align="center"><img src="https://socialify.git.ci/prakashvishal93/Trello-To-Do-Manager/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
+
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. Below is the steps to install the application into local machine.</p>
@@ -21,3 +22,16 @@ npm install
 ```
 npm run start
 ```
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   React Tailwind Css
+
+
+<h2>💻 Live Link</h2>
+
+Visit this [Website](https://prakashvishal93.github.io/Trello-To-Do-Manager/) for Live `Link`
